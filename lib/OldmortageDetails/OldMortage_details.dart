@@ -171,6 +171,15 @@ class _OldMortage_detailsState extends State<OldMortage_details> {
               // DataCell(Text('680900Tk')),
             ]),
           ]),
+          SizedBox(
+            height: 20,
+          ),
+          Container(
+            height: 200.h,
+            width: 200.w,
+            child:
+                Image.asset("assets/vaibhav-nagare-G3Hrl6WzQYQ-unsplash.jpg"),
+          ),
           InkWell(
             onTap: () {
               Navigator.push(context,

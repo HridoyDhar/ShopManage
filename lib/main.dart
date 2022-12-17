@@ -85,7 +85,7 @@ class _Splash_screenState extends State<Splash_screen> {
       navigateRoute: login_user(),
       duration: 3000,
       imageSize: 130,
-      imageSrc: "splahscreen.png",
+      imageSrc: "Splash.png",
       text: "Gold Manager",
       textType: TextType.NormalText,
       textStyle: TextStyle(

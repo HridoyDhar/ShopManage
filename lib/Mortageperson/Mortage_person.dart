@@ -175,6 +175,14 @@ class _Mortage_personState extends State<Mortage_person> {
         SizedBox(
           height: 20,
         ),
+        Container(
+          height: 200.h,
+          width: 200.w,
+          child: Image.asset("assets/vaibhav-nagare-G3Hrl6WzQYQ-unsplash.jpg"),
+        ),
+        SizedBox(
+          height: 20,
+        ),
         InkWell(
           onTap: () {
             Navigator.push(context,
