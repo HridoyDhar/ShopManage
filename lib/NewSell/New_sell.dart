@@ -179,18 +179,6 @@ class _New_sellState extends State<New_sell> {
                     SizedBox(
                       width: 10,
                     ),
-                    Container(
-                      height: 40,
-                      width: 120,
-                      margin: EdgeInsets.symmetric(horizontal: 20),
-                      alignment: Alignment.center,
-                      child: TextField(
-                        decoration: InputDecoration(
-                            labelText: "Money",
-                            border: OutlineInputBorder(
-                                borderRadius: BorderRadius.circular(10))),
-                      ),
-                    )
                   ])
             ])),
         SizedBox(
@@ -238,11 +226,24 @@ class _New_sellState extends State<New_sell> {
                       width: 120,
                       margin: EdgeInsets.symmetric(horizontal: 20),
                       alignment: Alignment.center,
-                      child: TextField(
-                        decoration: InputDecoration(
-                            labelText: "Money",
-                            border: OutlineInputBorder(
-                                borderRadius: BorderRadius.circular(10))),
+                      decoration: BoxDecoration(
+                        boxShadow: [
+                          BoxShadow(
+                            color: Colors.grey.withOpacity(0.2),
+                            spreadRadius: 3,
+                            blurRadius: 3,
+                            offset: Offset(0, 2), // changes position of shadow
+                          ),
+                        ],
+                        borderRadius: BorderRadius.circular(10),
+                        color: Color(0xffF7FAFF),
+                      ),
+                      child: Text(
+                        "66793779",
+                        style: TextStyle(
+                            fontFamily: "itim",
+                            fontSize: 20,
+                            color: Colors.black),
                       ),
                     )
                   ])
@@ -291,11 +292,24 @@ class _New_sellState extends State<New_sell> {
                       width: 120,
                       margin: EdgeInsets.symmetric(horizontal: 20),
                       alignment: Alignment.center,
-                      child: TextField(
-                        decoration: InputDecoration(
-                            labelText: "Money",
-                            border: OutlineInputBorder(
-                                borderRadius: BorderRadius.circular(10))),
+                      decoration: BoxDecoration(
+                        boxShadow: [
+                          BoxShadow(
+                            color: Colors.grey.withOpacity(0.2),
+                            spreadRadius: 3,
+                            blurRadius: 3,
+                            offset: Offset(0, 2), // changes position of shadow
+                          ),
+                        ],
+                        borderRadius: BorderRadius.circular(10),
+                        color: Color(0xffF7FAFF),
+                      ),
+                      child: Text(
+                        "66793779",
+                        style: TextStyle(
+                            fontFamily: "itim",
+                            fontSize: 20,
+                            color: Colors.black),
                       ),
                     )
                   ])
@@ -344,11 +358,24 @@ class _New_sellState extends State<New_sell> {
                       width: 120,
                       margin: EdgeInsets.symmetric(horizontal: 20),
                       alignment: Alignment.center,
-                      child: TextField(
-                        decoration: InputDecoration(
-                            labelText: "Money",
-                            border: OutlineInputBorder(
-                                borderRadius: BorderRadius.circular(10))),
+                      decoration: BoxDecoration(
+                        boxShadow: [
+                          BoxShadow(
+                            color: Colors.grey.withOpacity(0.2),
+                            spreadRadius: 3,
+                            blurRadius: 3,
+                            offset: Offset(0, 2), // changes position of shadow
+                          ),
+                        ],
+                        borderRadius: BorderRadius.circular(10),
+                        color: Color(0xffF7FAFF),
+                      ),
+                      child: Text(
+                        "66793779",
+                        style: TextStyle(
+                            fontFamily: "itim",
+                            fontSize: 20,
+                            color: Colors.black),
                       ),
                     )
                   ])
@@ -397,11 +424,24 @@ class _New_sellState extends State<New_sell> {
                       width: 120,
                       margin: EdgeInsets.symmetric(horizontal: 20),
                       alignment: Alignment.center,
-                      child: TextField(
-                        decoration: InputDecoration(
-                            labelText: "Money",
-                            border: OutlineInputBorder(
-                                borderRadius: BorderRadius.circular(10))),
+                      decoration: BoxDecoration(
+                        boxShadow: [
+                          BoxShadow(
+                            color: Colors.grey.withOpacity(0.2),
+                            spreadRadius: 3,
+                            blurRadius: 3,
+                            offset: Offset(0, 2), // changes position of shadow
+                          ),
+                        ],
+                        borderRadius: BorderRadius.circular(10),
+                        color: Color(0xffF7FAFF),
+                      ),
+                      child: Text(
+                        "66793779",
+                        style: TextStyle(
+                            fontFamily: "itim",
+                            fontSize: 20,
+                            color: Colors.black),
                       ),
                     )
                   ])
@@ -450,11 +490,24 @@ class _New_sellState extends State<New_sell> {
                       width: 120,
                       margin: EdgeInsets.symmetric(horizontal: 20),
                       alignment: Alignment.center,
-                      child: TextField(
-                        decoration: InputDecoration(
-                            labelText: "Money",
-                            border: OutlineInputBorder(
-                                borderRadius: BorderRadius.circular(10))),
+                      decoration: BoxDecoration(
+                        boxShadow: [
+                          BoxShadow(
+                            color: Colors.grey.withOpacity(0.2),
+                            spreadRadius: 3,
+                            blurRadius: 3,
+                            offset: Offset(0, 2), // changes position of shadow
+                          ),
+                        ],
+                        borderRadius: BorderRadius.circular(10),
+                        color: Color(0xffF7FAFF),
+                      ),
+                      child: Text(
+                        "66793779",
+                        style: TextStyle(
+                            fontFamily: "itim",
+                            fontSize: 20,
+                            color: Colors.black),
                       ),
                     )
                   ])
@@ -503,11 +556,24 @@ class _New_sellState extends State<New_sell> {
                       width: 120,
                       margin: EdgeInsets.symmetric(horizontal: 20),
                       alignment: Alignment.center,
-                      child: TextField(
-                        decoration: InputDecoration(
-                            labelText: "Money",
-                            border: OutlineInputBorder(
-                                borderRadius: BorderRadius.circular(10))),
+                      decoration: BoxDecoration(
+                        boxShadow: [
+                          BoxShadow(
+                            color: Colors.grey.withOpacity(0.2),
+                            spreadRadius: 3,
+                            blurRadius: 3,
+                            offset: Offset(0, 2), // changes position of shadow
+                          ),
+                        ],
+                        borderRadius: BorderRadius.circular(10),
+                        color: Color(0xffF7FAFF),
+                      ),
+                      child: Text(
+                        "66793779",
+                        style: TextStyle(
+                            fontFamily: "itim",
+                            fontSize: 20,
+                            color: Colors.black),
                       ),
                     )
                   ])
@@ -556,11 +622,24 @@ class _New_sellState extends State<New_sell> {
                       width: 120,
                       margin: EdgeInsets.symmetric(horizontal: 20),
                       alignment: Alignment.center,
-                      child: TextField(
-                        decoration: InputDecoration(
-                            labelText: "Money",
-                            border: OutlineInputBorder(
-                                borderRadius: BorderRadius.circular(10))),
+                      decoration: BoxDecoration(
+                        boxShadow: [
+                          BoxShadow(
+                            color: Colors.grey.withOpacity(0.2),
+                            spreadRadius: 3,
+                            blurRadius: 3,
+                            offset: Offset(0, 2), // changes position of shadow
+                          ),
+                        ],
+                        borderRadius: BorderRadius.circular(10),
+                        color: Color(0xffF7FAFF),
+                      ),
+                      child: Text(
+                        "66793779",
+                        style: TextStyle(
+                            fontFamily: "itim",
+                            fontSize: 20,
+                            color: Colors.black),
                       ),
                     )
                   ])
